@@ -1,11 +1,11 @@
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+  "description": "Series 32 Ballman 1999 ", 
   "external_url": "https://openseacreatures.io/3", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-  "name": "Dave Starbelly",
+  "image": ".png", 
+  "name": "Name",
   "attributes": [   {
-      "trait_type": "Base", 
-      "value": "Starfish"
+      "trait_type": "Trait_type", 
+      "value": "velue"
     }, 
     {
       "trait_type": "Eyes", 
