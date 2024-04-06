@@ -1,1 +1,16 @@
 
+{
+    "name": "JCS c00 24k 1996 gogld plated",
+    "description": "Gold plated 1996",
+    "image": "https://5.imimg.com/data5/TG/DN/MY-37294786/designer-artificial-jewellery.jpg",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
