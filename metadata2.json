@@ -5,12 +5,16 @@
     "image": "https://i.pinimg.com/736x/68/37/43/683743b3f8916c2d83b7110ad81ac3b8.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Weight",
+            "value": "150 grams"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Gears",
+            "value": "10000"
         }
+                {
+            "trait_type": "Color",
+            "value": "Blue"
+        },
     ]
 }
