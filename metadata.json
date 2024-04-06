@@ -1,8 +1,15 @@
-
 {
-  "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-  "external_url": "https://openseacreatures.io/3", 
-  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-  "name": "Dave Starbelly",
-  "attributes": [ ... ]
+    "name": "NFT ",
+    "description": "NFT Description",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
 }
